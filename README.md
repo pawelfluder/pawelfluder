@@ -71,4 +71,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=pawelfluder
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pawelfluder&theme=dark&background=000000)](https://git.io/streak-stats)
