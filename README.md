@@ -48,7 +48,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### Projects:
   - Angular
-      - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git"></a>
+      - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
 
 ---
 
