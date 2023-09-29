@@ -1,5 +1,5 @@
 - [Paragraph](#paragraph)
-- [Aboutme](#aboutme)
+- [Aboutme](#about-me)
 
 <!-- social media -->
 <div id="header" align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-# Aboutme
+# About me
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - 🐜 | Back-end Developer | Remote | C# l .NET | SQL | MVC | MVVM | Azure Devops | Azure portal
