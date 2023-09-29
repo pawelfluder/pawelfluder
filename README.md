@@ -1,6 +1,3 @@
-
-
-
 <!-- social media -->
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/pawe%C5%82-fluder-840660155">
@@ -8,6 +5,7 @@
   </a>
 </div>
 <!--
+
 <a href="your-youtube-URL">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
