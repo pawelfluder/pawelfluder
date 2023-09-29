@@ -4,6 +4,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 
 <a href="your-youtube-URL">
@@ -94,7 +97,5 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 -->
 
 <!-- gif; big animation with two monitors
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
-</div>
+
 -->
