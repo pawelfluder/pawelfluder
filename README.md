@@ -41,7 +41,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- knowledge -->
 # Programing knowledge examples
 - Asynchronius programming
-  <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">https://github.com/pawelfluder/CSharpAsynchExample</a>
+  - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">https://github.com/pawelfluder/CSharpAsynchExample</a>
 - Entity framework
 - Angular
   - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
