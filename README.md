@@ -7,15 +7,11 @@
 <!-- social media -->
 
 
-
-
-
 <div id="header" align="center">
-  <h1>
-    hey there two
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -87,12 +83,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 -->
 
-<!-- gif; big animation with two monitors
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
-</div>
--->
-
 <!-- social media
 <a href="your-youtube-URL">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -100,4 +90,13 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <a href="your-twitter-URL">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+-->
+
+<!-- gif; big animation with two monitors
+<div id="header" align="center">
+  <h1>
+    hey there two
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 -->
