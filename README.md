@@ -15,7 +15,7 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Technology expirience](#technology-expirience)
+[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Technology expirience](#technology-expirience)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blog Posts](#blog-posts)
 <!-- anchor links-->
 
 
@@ -88,7 +88,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 <!-- blog posts -->
-### Blog Posts
+# Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- blog posts -->
