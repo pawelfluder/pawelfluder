@@ -15,35 +15,38 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#projects)
+[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#programing-knowledge-/-examples)
+
 <!-- anchor links-->
 
 
-
-
+<!-- breaking line -->
 ---
+<!-- breaking line -->
 
+
+<!-- about me -->
 # About me
-
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - 🐜 | Back-end Developer | Remote | C# l .NET | SQL | MVC | MVVM | Azure Devops | Azure portal
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
 - :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/pawe%C5%82-fluder-840660155">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
--
 - :linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-fluder-840660155)
+<!-- about me -->
 
-# Projects
+
+<!-- knowledge -->
+# Programing knowledge / examples
+  - Asynchronius programming
+  - Entity framework
   - Angular
-      - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
+    - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
 
----
+<!-- knowledge -->
 
 ### :hammer_and_wrench: Languages and Tools :
 
