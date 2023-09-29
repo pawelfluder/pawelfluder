@@ -1,9 +1,5 @@
 
-<!-- gif; coding from home
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
--->
+
 
 <!-- social media -->
 <div id="header" align="center">
@@ -20,9 +16,7 @@
 </a>
 -->
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div id="header" align="center">
   <h1>
@@ -95,3 +89,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- BLOG-POST-LIST:END -->
 
 
+<!-- gif; coding from home
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+-->
+
+<!-- gif; big animation with two monitors
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
+</div>
+-->
