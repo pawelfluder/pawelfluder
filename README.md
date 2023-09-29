@@ -1,15 +1,9 @@
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md>
 
 
-<!-- anchor links that jump down to different sections-->
-<!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
-<!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#projects)
-<!-- anchor links that jump down to different sections-->
-
-
 <!-- social media -->
-<div id="header" align="center">
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/pawe%C5%82-fluder-840660155">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,11 +11,12 @@
 <!-- social media -->
 
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
-</div>
-
+<!-- anchor links>
+<!-- anchor links that jump down to different sections-->
+<!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
+<!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
+[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#projects)
+<!-- anchor links-->
 
 
 <div align="center">
