@@ -1,5 +1,4 @@
-[Go to Real Cool Heading section](#-real-cool-heading)
-
+- [Paragraph](#paragraph)
 
 <!-- social media -->
 <div id="header" align="center">
@@ -37,7 +36,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 -
 - :linkedin: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-fluder-840660155)
 
-# Real Cool Heading
+# Paragraph
 ### Projects:
   - Angular
       - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
