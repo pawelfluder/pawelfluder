@@ -15,7 +15,7 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)
+[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)
 <!-- anchor links-->
 
 
@@ -50,6 +50,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- Private projects -->
 # Private projects
+- Angular
+  - <a href="https://github.com/pawelfluder/NotesSystem.git">Notes system</a>
 <!-- Private projects -->
 
 <!-- Past commercial projects -->
