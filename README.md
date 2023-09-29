@@ -1,4 +1,4 @@
-[Paragraph](#paragraph) | [Aboutme](#about-me)
+| [Paragraph](#paragraph) | [Aboutme](#about-me) |
 
 <!-- social media -->
 <div id="header" align="center">
