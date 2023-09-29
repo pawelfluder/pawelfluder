@@ -1,13 +1,10 @@
-<!-- social media
+<!-- social media -->
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/pawe%C5%82-fluder-840660155">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
-</div>
-<!--
+<!-- social media -->
 
 <a href="your-youtube-URL">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -97,5 +94,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 -->
 
 <!-- gif; big animation with two monitors
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawelfluder&style=flat-square&color=blue" alt=""/>
+</div>
 -->
