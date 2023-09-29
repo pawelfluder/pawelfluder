@@ -48,28 +48,27 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- knowledge -->
 
 
-<!-- Private projects -->
+<!-- private projects -->
 # Private projects
 - Notes system
   - <a href="https://github.com/pawelfluder/NotesSystem/tree/main/03_projects">Notes system (wpf version)
-<!-- Private projects -->
+<!-- private projects -->
 
 
-<!-- Past commercial projects -->
+<!-- past commercial projects -->
 # Past commercial projects
-<!-- Past commercial projects -->
+<!-- past commercial projects -->
 
 
-<!-- Technology expirience -->
+<!-- technology expirience -->
 # Technology expirience
-<!-- Technology expirience -->
+<!-- technology expirience -->
 
-<!-- Technology expirience -->
+<!-- languages and tools -->
 # Languages and Tools
-
 <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelfluder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" alt="React" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -85,23 +84,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<!-- languages and tools -->
 
 
----
-
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pawelfluder&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelfluder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-
+<!-- blog posts -->
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<!-- blog posts -->
 
 
 <!-- gif; coding from home
@@ -137,4 +127,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- emoticons
 :woman_technologist:
 :hammer_and_wrench:
+:writing_hand:
+-->
+
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pawelfluder&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
