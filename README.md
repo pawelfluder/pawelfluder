@@ -1,4 +1,5 @@
 - [Paragraph](#paragraph)
+- [Aboutme](#aboutme)
 
 <!-- social media -->
 <div id="header" align="center">
@@ -22,7 +23,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+# Aboutme
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - 🐜 | Back-end Developer | Remote | C# l .NET | SQL | MVC | MVVM | Azure Devops | Azure portal
@@ -103,4 +104,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+-->
+
+<!-- emoticons
+:woman_technologist:
 -->
