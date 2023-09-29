@@ -4,7 +4,7 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[Paragraph](#paragraph)<pre>     </pre>[Aboutme](#about-me) 
+[Paragraph](#paragraph)&nbsp;[Aboutme](#about-me) 
 <!-- anchor links that jump down to different sections-->
 
 
