@@ -15,7 +15,10 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](#programing-knowledge-/-examples)
+[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)
+Past commercial projects
+Private projects
+(#Programing-knowledge-examples)
 
 <!-- anchor links-->
 
@@ -40,13 +43,22 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 <!-- knowledge -->
-# Programing knowledge / examples
+# Programing knowledge examples
   - Asynchronius programming
   - Entity framework
   - Angular
     - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
 
 <!-- knowledge -->
+
+
+<!-- Private projects -->
+# Private projects
+<!-- Private projects -->
+
+<!-- Past commercial projects -->
+# Past commercial projects
+<!-- Past commercial projects -->
 
 ### :hammer_and_wrench: Languages and Tools :
 
