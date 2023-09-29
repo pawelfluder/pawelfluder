@@ -44,7 +44,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   - Entity framework
   - Angular
     - <a href="https://github.com/pawelfluder/AngularDotNetCrud.git">AngularDotNetCrud</a>
-
 <!-- knowledge -->
 
 
@@ -66,8 +65,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- languages and tools -->
 # Languages and Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelfluder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelfluder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
