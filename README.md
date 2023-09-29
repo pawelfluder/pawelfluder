@@ -15,7 +15,7 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)
+[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Technology expirience](#technology-expirience)
 <!-- anchor links-->
 
 
@@ -54,11 +54,18 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   - <a href="https://github.com/pawelfluder/NotesSystem/tree/main/03_projects">Notes system (wpf version)
 <!-- Private projects -->
 
+
 <!-- Past commercial projects -->
 # Past commercial projects
 <!-- Past commercial projects -->
 
-### :hammer_and_wrench: Languages and Tools :
+
+<!-- Technology expirience -->
+# Technology expirience
+<!-- Technology expirience -->
+
+<!-- Technology expirience -->
+# Languages and Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" alt="React" width="40" height="40"/>&nbsp;
@@ -129,4 +136,5 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- emoticons
 :woman_technologist:
+:hammer_and_wrench:
 -->
