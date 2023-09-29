@@ -50,8 +50,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- Private projects -->
 # Private projects
-- Angular
-  - <a href="https://github.com/pawelfluder/NotesSystem.git">Notes system</a>
+- Notes system
+  - <a href="https://github.com/pawelfluder/NotesSystem.git/03_projects">Notes system (wpf version)</a>
 <!-- Private projects -->
 
 <!-- Past commercial projects -->
