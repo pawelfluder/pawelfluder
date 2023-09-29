@@ -15,7 +15,7 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)
+[Paragraph](#paragraph)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About me](#about-me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Programing knowledge examples](#programing-knowledge-examples)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Private projects](#private-projects)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Past commercial projects](#past-commercial-projects)
 Past commercial projects
 Private projects
 (#Programing-knowledge-examples)
