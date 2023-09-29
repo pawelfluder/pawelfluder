@@ -1,10 +1,8 @@
 <!-- anchor links that jump down to different sections-->
 <!-- https://github.com/fefong/markdown_readme/blob/master/README.md -->
 <!-- https://gerrit.googlesource.com/gitiles/+/refs/tags/v0.2/Documentation/markdown.md#Tables -->
-|||---|||
-#### [Paragraph](#paragraph)
-#### [Aboutme](#about-me)
-|||---|||
+[Paragraph](#paragraph)     [Aboutme](#about-me)
+
 <!-- anchor links that jump down to different sections-->
 
 <!-- social media -->
