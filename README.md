@@ -42,13 +42,12 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 # Programing knowledge examples
 - Asynchronius programming
   - <a href="https://github.com/pawelfluder/CSharpAsynchExample">CSharpAsynchExample</a>
-- Entity framework
 - Angular
   - <a href="https://github.com/pawelfluder/AngularDotNetCrud">AngularDotNetCrud</a>
 - Asp.net MVC
   - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AspnetUmbracoFull</a>
 - Entity framework
-    <a href="https://github.com/pawelfluder/CSharpEFCoreExample">CSharpEFCoreExample</a>
+  - <a href="https://github.com/pawelfluder/CSharpEFCoreExample">CSharpEFCoreExample</a>
 <!-- knowledge -->
 
 
