@@ -46,7 +46,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - Angular
   - <a href="https://github.com/pawelfluder/AngularDotNetCrud">AngularDotNetCrud</a>
 - Asp.net MVC
-  - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AngularDotNetCrud</a>
+  - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AspnetUmbracoFull</a>
+- Entity framework
+    <a href="https://github.com/pawelfluder/CSharpEFCoreExample">CSharpEFCoreExample</a>
 <!-- knowledge -->
 
 
