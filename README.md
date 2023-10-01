@@ -59,7 +59,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- private projects -->
 # Private projects
 - Notes system
-  - <a href="https://github.com/pawelfluder/NotesSystem/tree/main/03_projects">Notes system (wpf version)
+  - <a href="https://github.com/pawelfluder/NotesSystem/tree/main/03_projects">Notes system (wpf version)</a>
+- Programming blog
+  - <a href="https://github.com/pawelfluder/NotesSystem/tree/main/ProgrammingBlog">ProgrammingBlog</a>  
 <!-- private projects -->
 
 
