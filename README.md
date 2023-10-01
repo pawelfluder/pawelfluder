@@ -43,11 +43,16 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - Asynchronius programming
   - <a href="https://github.com/pawelfluder/CSharpAsynchExample">CSharpAsynchExample</a>
 - Angular
-  - <a href="https://github.com/pawelfluder/AngularDotNetCrud">AngularDotNetCrud</a>
-- Asp.net MVC
-  - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AspnetUmbracoFull</a>
+  - <a href="https://github.com/pawelfluder/AngularAspnetCrudExample">AngularAspnetCrudExample</a>
 - Entity framework
   - <a href="https://github.com/pawelfluder/CSharpEFCoreExample">CSharpEFCoreExample</a>
+- Asp.net MVC
+  - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AspnetUmbracoFull</a>
+  - <a href="https://github.com/pawelfluder/AspnetUmbracoTemplate">AspnetUmbracoTemplate</a>
+- Dynamic programming
+  - <a href="https://github.com/pawelfluder/SharpCurrencyExchange">SharpCurrencyExchange</a>
+- Java Script
+  - <a href="https://github.com/pawelfluder/JavaScriptSinglePageApp">SharpCurrencyExchange</a>
 <!-- knowledge -->
 
 
