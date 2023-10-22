@@ -50,9 +50,11 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AspnetUmbracoFull</a>
   - <a href="https://github.com/pawelfluder/AspnetUmbracoTemplate">AspnetUmbracoTemplate</a>
 - Dynamic programming
-  - <a href="https://github.com/pawelfluder/SharpCurrencyExchange">SharpCurrencyExchange</a>
+  - <a href="https://github.com/pawelfluder/SharpCurrencyExchange">CSharpCurrencyExchange</a>
 - Java Script
   - <a href="https://github.com/pawelfluder/JavaScriptSinglePageExample">JavaScriptSinglePageExample</a>
+- Thread synchronization
+  - <a href="https://github.com/pawelfluder/SharpThreadSynchProg">CSharpThreadSynchProg</a>
 <!-- knowledge -->
 
 
