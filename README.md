@@ -44,8 +44,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   - <a href="https://github.com/pawelfluder/CSharpAsynchExamples">CSharpAsynchExamples</a>
 - Entity framework
   - <a href="https://github.com/pawelfluder/CSharpEfCoreExamples">CSharpEfCoreExamples</a>
-- Asp.net
-  - 
 - Dynamic programming
   - <a href="https://github.com/pawelfluder/SharpCurrencyExchange">CSharpCurrencyExchange</a>
 - Java Script
