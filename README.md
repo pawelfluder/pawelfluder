@@ -27,7 +27,7 @@
 <!-- about me -->
 # About me
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-- 🐜 | Back-end Developer | Remote | C# l .NET | SQL | MVC | MVVM | Azure Devops | Azure portal
+- 🐜 | Back-end Developer | Remote | C# l .NET | SQL | MVVM | Azure Devops | Azure portal
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
@@ -42,7 +42,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   - <a href="https://github.com/pawelfluder/AngularAspnetCrudExample">AngularAspnetCrudExample</a>
 - Entity framework
   - <a href="https://github.com/pawelfluder/CSharpEfCoreExamples">CSharpEfCoreExamples</a>
-- Asp.net MVC
+- Asp.net
   - <a href="https://github.com/pawelfluder/AspnetUmbracoFull">AspnetUmbracoFull</a>
   - <a href="https://github.com/pawelfluder/AspnetUmbracoTemplate">AspnetUmbracoTemplate</a>
 - Dynamic programming
